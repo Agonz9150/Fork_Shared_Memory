@@ -27,7 +27,7 @@
 #define FAIL -1
 #define ACTIVE 0
 #define CHILD_PID_RESULT 0
-#define BUFFER 200 //Roop for printing to screen
+#define BUFFER 200 // for printing to screen
 
 
 enum Boolean {FALSE = -1, TRUE = 1};
